@@ -1,2 +1,2 @@
-# ASP.NETCoreAppMVCSemTemplate
-Criando um projeto MVC sem template
+# ASP.NETCoreMVC
+Projetos ASP.NET Core MVC.
